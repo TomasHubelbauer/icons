@@ -1,5 +1,17 @@
 # Icons
 
+## Running
+
+### macOS
+
+#### No Range Requests
+
+`python3 -m http.server` for `localhost:8000`
+
+#### Range Request Support
+
+TODO.
+
 ## Sets
 
 ### FatCow
@@ -24,4 +36,4 @@ http://www.famfamfam.com/lab/icons
 
 ### Implement client-side search and unarchival like https://tomashubelbauer.github.io/fatcow-icons/
 
-### Use https://github.com/TomasHubelbauer/esm-list-zip
+### Add information on what HTTP server to use locally to test range request support
