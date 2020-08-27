@@ -23,3 +23,5 @@ http://www.famfamfam.com/lab/icons
 ## To-Do
 
 ### Implement client-side search and unarchival like https://tomashubelbauer.github.io/fatcow-icons/
+
+### Use https://github.com/TomasHubelbauer/esm-list-zip
