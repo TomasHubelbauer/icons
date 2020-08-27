@@ -37,3 +37,6 @@ http://www.famfamfam.com/lab/icons
 ### Implement client-side search and unarchival like https://tomashubelbauer.github.io/fatcow-icons/
 
 ### Add information on what HTTP server to use locally to test range request support
+
+Use https://tomashubelbauer.github.io/esm-list-zip/index.js once it is fixed to work with
+HTTP ranges as expected.
